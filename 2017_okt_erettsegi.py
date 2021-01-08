@@ -24,9 +24,7 @@ txt.close()
 
 txt = open(r'C:\Users\User\.PyCharmCE2019.1\config\scratches\naplo.txt', 'r')
 
-#sor_3 = txt.readline()
 elso_karakter_3 = txt.read(1)
-hianyzasok_szama = 0
 spacek_szama = 0
 igazolt = 0
 igazolatlan = 0
